@@ -8,8 +8,8 @@ tags: [cloud, bioinformatics, AWS, Google Cloud, precision-medicine]
 
 In the rapidly evolving landscape of biomedical research, the ability to analyze massive genomic datasets has become a critical bottleneck. Enter Terra.bio—a cloud-native platform that's revolutionizing how researchers approach genomic analysis and collaboration.
 
-![Terra.bio Platform Dashboard](/assets/images/terra-dashboard.png)
-*Figure 1: Terra.bio main dashboard showing workspace organization and data management interface.*
+![Terra.bio Platform](/assets/images/terra-dashboard.png)
+*Figure 1: Terra.bio*
 
 ## The Challenge of Modern Genomics
 
