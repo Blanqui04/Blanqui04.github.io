@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Terra.bio: Democratizing Genomic Analysis Through Cloud Computing"
+title: "Terra.bio"
+subtitle: "Genomic Analysis Through Cloud Computing"
 date: 2026-04-11
 categories: [biomedicine, cloud-computing, genomics]
 tags: [cloud, bioinformatics, AWS, Google Cloud, precision-medicine]
