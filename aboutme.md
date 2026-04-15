@@ -15,7 +15,7 @@ My name is Ernest Ceballos Ortega I am from Folgueroles, Catalonia and I love le
 - Data Scientist at SOME S.A.U. (2024 - )
 
 
-### Lenguages
+### Languages
 - Catalan C1
 - Spanish C1
 - English C1
