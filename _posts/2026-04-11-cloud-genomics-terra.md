@@ -4,7 +4,7 @@ title: "Terra.bio"
 subtitle: "Genomic Analysis Through Cloud Computing"
 date: 2026-04-11
 categories: [biomedicine, cloud-computing, genomics]
-tags: [cloud, bioinformatics, AWS, Google Cloud, precision-medicine]
+tags: [cloud, bioinformatics, Azure, precision-medicine]
 ---
 
  Terra.bio is a cloud platform that's revolutionizing how researchers approach genomic analysis and collaboration, as has the ability to analyze massive genomic datasets has become a critical bottleneck. 
