@@ -7,7 +7,7 @@ categories: [biomedicine, cloud-computing, genomics]
 tags: [cloud, bioinformatics, Azure, precision-medicine]
 ---
 
- Terra.bio is a cloud platform that's revolutionizing how researchers approach genomic analysis and collaboration, as has the ability to analyze massive genomic datasets has become a critical bottleneck. 
+Terra.bio is a cloud platform that's revolutionizing how researchers approach genomic analysis and collaboration, as has the ability to analyze massive genomic datasets has become a critical bottleneck. 
 
 ![Terra.bio Platform](/images/terra-dashboard.png)
 *Figure 1: Terra.bio*
