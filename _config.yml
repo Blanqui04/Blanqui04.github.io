@@ -10,7 +10,6 @@ author: Ernest Ceballos Ortega (Blanqui04)
 
 navbar-links:
   About Me: "aboutme"
-  Example Page: "example"
 
 ################
 # --- Logo --- #
@@ -39,7 +38,7 @@ social-network-links:
   email: "ernestceballos@gmail.com"
   github: Blanqui04
   youtube: "ernestceballos@gmail.com"
-  linkedin: Ernest Ceballos Ortega
+  linkedin: https://www.linkedin.com/in/ernest-ceballos-ortega-69728819a/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

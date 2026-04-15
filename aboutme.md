@@ -4,7 +4,7 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ernest Ceballos Ortega I am from Folgueroles and I love learning new skills. Have a look at my background below!
+My name is Ernest Ceballos Ortega I am from Folgueroles, Catalonia and I love learning new skills. Have a look at my background below!
 
 ### Education
 
@@ -13,3 +13,10 @@ My name is Ernest Ceballos Ortega I am from Folgueroles and I love learning new 
 
 ### Experience
 - Data Scientist at SOME S.A.U. (2024 - )
+
+
+### Lenguages
+- Catalan C1
+- Spanish C1
+- English C1
+
